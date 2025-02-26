@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #44416f;
     margin: 0;
     padding: 20px;
 }
@@ -8,14 +8,14 @@ body {
 .container {
     max-width: 600px;
     margin: 0 auto;
-    background: #fff;
+    background: #607ea4;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h1, h2 {
-    color: #333;
+    color: #1b0451;
 }
 
 form {
@@ -25,19 +25,19 @@ form {
 input, select, button {
     padding: 10px;
     margin: 5px 0;
-    border: 1px solid #ccc;
+    border: 1px solid #1311ae;
     border-radius: 4px;
     width: 100%;
 }
 
 button {
-    background-color: #28a745;
-    color: white;
+    background-color: #419d55;
+    color: rgb(3, 85, 24);
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #218838;
+    background-color: #419d55;
 }
 
 ul {
@@ -48,7 +48,7 @@ ul {
 li {
     padding: 10px;
     margin: 5px 0;
-    border: 1px solid #ccc;
+    border: 1px solid #faf2f2;
     border-radius: 4px;
     display: flex;
     justify-content: space-between;
